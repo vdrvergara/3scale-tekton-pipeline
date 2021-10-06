@@ -1,1 +1,5 @@
-
+---
+:remotes:
+  saas:
+    :authentication: fd390a6bb17d737a4535b7a21b26e41f
+    :endpoint: https://red-hat-vergara-admin.3scale.net
